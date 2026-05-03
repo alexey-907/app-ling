@@ -1,0 +1,43 @@
+body{
+
+}
+table{
+	border: 1px solid rgb(44, 85, 122);
+	margin: 10px auto;
+	background-color: #98c9fa;
+	color: #0052b1;
+	padding: 12px 49px 15px 49px;
+	font-family: Arial;
+    margin-top: 150px;
+}
+h1{
+	font-family: Arial;
+	font-weight: bolder;
+	color: #0052b1;
+	text-align: center;
+}
+form{
+	margin: 0 auto;
+}
+label{
+	font-weight: bold;
+	font-family: Arial;
+	color: #0052b1;
+	display: block;
+}
+input{
+	margin-bottom: 10px;
+}
+textarea {
+    width: 90%;
+    height: 200px;
+    resize: none;
+}
+.errors {
+	color: #ff2a2a;
+    text-align: center;
+	font-weight: bold;
+	margin: 10px;
+	padding-bottom: 10px;
+}
+
